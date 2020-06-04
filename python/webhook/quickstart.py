@@ -25,7 +25,7 @@ def main():
     """Hangouts Chat incoming webhook quickstart."""
     url = '<INCOMING-WEBHOOK-URL>'
     bot_message = {
-        'text' : 'Hello from a Python script!'}
+        'text' : 'Consider it done!'}
 
     message_headers = {'Content-Type': 'application/json; charset=UTF-8'}
 
